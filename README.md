@@ -31,13 +31,13 @@ Whatsapp Bot 💫 || Lord Bot MD 🌪️ || Made By Letta-Sama🌹AmmarBN
   <a href="https://wa.me/6288229683561">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@knchann">
+  <a href="https://www.tiktok.com/@dilzpx">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/lord_ammar_quoteser">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:kannachann@gmail.com">
+  <a href="mailto:aidilgm000@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
@@ -97,7 +97,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AmmarrBN/Lord_MD
+$ git clone https://github.com/dilzpx/Lord_MD
 $ cd Lord_MD
 $ npm i 
 ```
